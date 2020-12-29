@@ -1,5 +1,7 @@
-# NHANES_data_viz
+# NHANES Data Analysis and Visualization Tool
 Final project for CS10 - interactive data analysis tool using NHANES data. 
+
+Note: The project was made using google colab, and imports data from three different files that were mounted to google colab. All data files are included in this repository. Running this program will require modifications to the data importing section to identify filepaths of data. 
 
 ## Features: 
 
@@ -49,7 +51,7 @@ Matplotlib
 Seaborn
 Statsmodels
 
-The project was made using google colab, and imports data from three different files. We have saved the google colab project as an ipython notebook and have included the 3 files the code needs to reference. Running this code elsewhere will require modifications to the data importing section. 
+
 
 
 
