@@ -18,26 +18,26 @@ Script/local variables - all of the functions we defined (average_weight(), exer
 
 ## Function Names, domains, ranges, and behaviors: 
 
-average_weight()
-Age: integer
-Height: integer/float
-Gender: string (either female or male)
-integer/float
+average_weight()\
+Age: integer\
+Height: integer/float\
+Gender: string (either female or male) \
+integer/float\
 takes as input user's gender, age, and height, and reports average weight for individuals of the gender and age, and height within .05 meters
 
 
-exercise_over_time()
-Gender: string(either male or female)
-Weight: int/float
-Height: int/float
-boxplot
+exercise_over_time()\
+Gender: string(either male or female) \
+Weight: int/float\
+Height: int/float\
+boxplot\
 returns 1 boxplot of total minutes exercise per age category for observations of same gender, weight within 6 kg and height within .05 meters as user
 
 
-exercise_income_level()
-Gender: string (either female or male)
-Age: integer
-boxplot
+exercise_income_level()\
+Gender: string (either female or male) \
+Age: integer\
+boxplot\
 Returns 1 boxplot of total minutes exercise (MVPA) per category of income:poverty level ratio for observations of same gender and age as user
 
 ## Additional information
@@ -45,10 +45,10 @@ Returns 1 boxplot of total minutes exercise (MVPA) per category of income:povert
 Written in Python 3.6.7
 
 Python packages:
-Numpy
-Pandas
-Matplotlib
-Seaborn
+Numpy,
+Pandas,
+Matplotlib,
+Seaborn,
 Statsmodels
 
 
